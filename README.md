@@ -1,5 +1,5 @@
 # Synopsis
-battery_health.sh is a basic shell script to enforce proper charge-discharge battery cycles (currently limited to MacOS).
+`battery_health.sh` is a basic shell script to enforce proper charge-discharge battery cycles (currently limited to MacOS).
 The core idea behind the implementation is simple - Ensure that the battery health of the device is maintained properly, i.e., avoid overcharging or undercharging.
 
 ## Motivation
@@ -8,7 +8,7 @@ We all are well aware of the importance of Charge-Discharge cycle for any rechar
 
 Although, the idea is really simple, I certainly believe that it is something that most of the working professionals (who usually get too busy in discussions/development/meetings to see the charging level of laptops) should implement and use.
 
-If anyone wants to implement it and is not sure how to go along with it, please feel free to reach out to me. I'll be more than happy to help!
+> If anyone wants to implement it and is not sure how to go along with it, please feel free to reach out to me. I'll be more than happy to help!
 
 ## Installation and Implementation
 
@@ -18,3 +18,4 @@ That's it, you're good to go!
 ## Demo Video
 A video demonstrating the working of the same can be found at the following link-
 https://www.linkedin.com/feed/update/urn:li:activity:6746676043995787264/
+
